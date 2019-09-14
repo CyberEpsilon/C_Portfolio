@@ -1,0 +1,6 @@
+Adding Code to GitHub Instructions:
+
+1) git status
+2) git commit -m [commit name]
+3)git remote add origin [URL]
+4) git push -u origin master
